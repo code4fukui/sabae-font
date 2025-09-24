@@ -2,8 +2,8 @@
 
 第18回鯖江市地域活性化プランコンテストの最優秀賞プラン「SABAEフォント」の実現プロジェクト ([プラン詳細](https://code4fukui.github.io/sabaepc/#plan202506))
 
-![sabaefont_alphabet](./src/sabaefont_alphabet.jpg)
-![sabaefont_kana](./src/sabaefont_kana.jpg)
+![sabaefont_alphabet](./src/sabaefont_alphabet.jpg?)
+![sabaefont_kana](./src/sabaefont_kana.jpg?)
 
 to make sabaefont-alpha3.ttf (only alphabet and number)
 ```sh
