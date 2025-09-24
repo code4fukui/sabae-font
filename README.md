@@ -1,4 +1,13 @@
-# sabae-font
+# sabae-font alpha 3
+
+to make sabaefont-alpha3.ttf
+```sh
+deno -A makeSabaeFont.js
+```
+
+## tool of image 2 svg
+
+- [SVGcode—Convert raster images to SVG vector graphics](https://svgco.de/)
 
 ## memo
 
