@@ -5,6 +5,8 @@ to make sabaefont-alpha3.ttf
 deno -A makeSabaeFont.js
 ```
 
+→ [SABAEフォントに関するご要望](https://github.com/code4fukui/sabae-font/issues/1)
+
 ## tool of image 2 svg
 
 - [SVGcode—Convert raster images to SVG vector graphics](https://svgco.de/)
