@@ -1,6 +1,6 @@
 # sabae-font alpha 3
 
-- [SABAEフォントα3 - sabaefont-alpha3.ttf](sabaefont-alpha3.ttf)
+- [SABAEフォントα3 - sabaefont-alpha3.ttf](https://code4fukui.github.io/sabae-font/sabaefont-alpha3.ttf)
 
 第18回鯖江市地域活性化プランコンテストの最優秀賞プラン「SABAEフォント」の実現プロジェクト ([プラン詳細](https://code4fukui.github.io/sabaepc/#plan202506))
 
