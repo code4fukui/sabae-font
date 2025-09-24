@@ -1,6 +1,9 @@
 # sabae-font alpha 3
 
-to make sabaefont-alpha3.ttf
+![sabaefont_alphabet](sabaefont_alphabet.jpg)
+![sabaefont_kana](sabaefont_kana.jpg)
+
+to make sabaefont-alpha3.ttf (only alphabet and number)
 ```sh
 deno -A makeSabaeFont.js
 ```
